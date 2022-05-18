@@ -1,0 +1,20 @@
+{
+  "firstname" : "test",
+  "lastname" : "User",
+  "id" : 101,
+  "address": {
+    "city" : "Gurugram",
+    "state" : "Haryana",
+    "pincode" : "122015"
+  },
+  "department" : [
+    {
+      "id" : 21,
+      "name" : "Administration"
+    },
+    {
+      "id" : 22,
+      "name" : "Payroll"
+    }
+  ]
+}
